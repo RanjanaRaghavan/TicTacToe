@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1625389753642,
+  "index": "https://github.com/RanjanaRaghavan/TicTacToe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/RanjanaRaghavan/TicTacToe/favicon.ico",
+        "https://github.com/RanjanaRaghavan/TicTacToe/index.html",
+        "https://github.com/RanjanaRaghavan/TicTacToe/main.2b047521f2681f301231.js",
+        "https://github.com/RanjanaRaghavan/TicTacToe/manifest.webmanifest",
+        "https://github.com/RanjanaRaghavan/TicTacToe/polyfills.6548f4c3e1e7d780d82a.js",
+        "https://github.com/RanjanaRaghavan/TicTacToe/runtime.a21564880a617a1beaaf.js",
+        "https://github.com/RanjanaRaghavan/TicTacToe/styles.f10228f992a132e7210f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-128x128.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-144x144.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-152x152.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-192x192.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-384x384.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-512x512.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-72x72.png",
+        "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/RanjanaRaghavan/TicTacToe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/RanjanaRaghavan/TicTacToe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/RanjanaRaghavan/TicTacToe/index.html": "833508bc804c4213630bfaf9ede3f2c07939160d",
+    "https://github.com/RanjanaRaghavan/TicTacToe/main.2b047521f2681f301231.js": "56efdd0e3a4de28acc9f1502626e045c65c4fa67",
+    "https://github.com/RanjanaRaghavan/TicTacToe/manifest.webmanifest": "7d8c404f394f49e25bcaaeafb59fbe6d2994bd93",
+    "https://github.com/RanjanaRaghavan/TicTacToe/polyfills.6548f4c3e1e7d780d82a.js": "ea2f209d3ed867300fc8d510b7e72355f0451ce9",
+    "https://github.com/RanjanaRaghavan/TicTacToe/runtime.a21564880a617a1beaaf.js": "cb560f885b43ead4a4beac6593ea2879ce422634",
+    "https://github.com/RanjanaRaghavan/TicTacToe/styles.f10228f992a132e7210f.css": "fa2d70bad56dbd4211bde8cec59f93e7b49f30fe"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
